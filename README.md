@@ -16,5 +16,6 @@ Sampson and W. Byron Groves (1989) extended the model of social disorganization 
 ### Dataset
 - Communities and Crime Unnormalized Data Set
 http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized?fbclid=IwARWuEZ9HO_tpY33I2w1DQ6uoCLikq5D8qXxWmkH6Af9MCrAe_OJxI15fXM
-Citation - Community Structure and Crime: Testing Social-Disorganization Theory
+
+- Citation - Community Structure and Crime: Testing Social-Disorganization Theory
 https://www.journals.uchicago.edu/doi/abs/10.1086/229068
