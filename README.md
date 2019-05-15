@@ -5,6 +5,8 @@ In sociology, the social disorganization theory is a theory developed by the Chi
 
 Sampson and W. Byron Groves (1989) extended the model of social disorganization by Shaw and McKay (1969). They performed empirical study on five dimensions related to community structure, which impacts social disorganization (refer Fig 1.)
 
+![image](https://user-images.githubusercontent.com/16520523/57801598-0a7bf500-7722-11e9-9c1f-6a7841f9a81e.png)
+
 ## Problem Statement
 - Can the crime rate of a community be explained by certain attributes/variables of the community? - The attributes cover several demographic aspects including resident age, household income, poverty level, education level, employment condition, homeless rate, divorce rate, parent marital status, property ownership status, immigration status, etc. Goals of Analysis
 - To identify the socio-economic variables contributing to the five dimensions in the extended model of Shaw and MaKay’s theory from the dataset from University of California
